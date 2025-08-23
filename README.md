@@ -71,21 +71,7 @@
          style="border-radius:50%; box-shadow:0 2px 8px #0077b5; transition:transform 0.2s;" />
     LinkedIn
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank" style="margin:0 10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-         width="32" alt="Facebook"
-         style="border-radius:50%; box-shadow:0 2px 8px #1877f3; transition:transform 0.2s;" />
-    Facebook
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/negisandeep9819/" target="_blank" style="margin:0 10px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="32" alt="Instagram"
-         style="border-radius:50%; box-shadow:0 2px 8px #e1306c; transition:transform 0.2s;" />
-    Instagram
-  </a>
-</p>
+  
 
 <!-- Social Links (moved to bottom, styled) -->
 <p align="center">
@@ -114,8 +100,4 @@
   <!-- Add more social links if needed -->
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <em>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</em>
-</p>
 
