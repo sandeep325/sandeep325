@@ -11,8 +11,8 @@
 
 <!-- Short Intro -->
 <p align="center">
-  Passionate about building scalable web applications and learning new technologies.<br>
-  I love collaborating, solving problems, and sharing knowledge with the community.
+  Creative problem solver and passionate coder.<br>
+  I thrive on building impactful products, exploring new tech, and working with great teams to deliver real-world solutions.
 </p>
 
 <!-- Social Links -->
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <!-- Add more icons as needed -->
 </p>
 
