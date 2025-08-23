@@ -1,15 +1,8 @@
 <!-- Profile Counter & Visitor Badge (combined and styled) -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://profile-counter.glitch.me/sandeep325/count.svg?" alt="Profile Counter" style="margin-right:20px;"/>
-      </td>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-      </td>
-    </tr>
-  </table>
+  <!-- If the profile-counter image is not showing, try this alternative badge: -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/sandeep325&title=Profile%20Counter&edge_flat=false" alt="Profile Counter" style="margin-right:20px;"/>
+  <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   <p>
     <img src="https://img.shields.io/badge/Welcome-Visitor-ff69b4?style=for-the-badge&logo=github" alt="Welcome Badge" />
   </p>
@@ -111,6 +104,13 @@
          width="20" alt="Instagram"
          style="border-radius:50%; box-shadow:0 2px 8px #e1306c; transition:transform 0.2s;" />
   </a>
+  <!-- Add more social links if needed -->
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <em>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</em>
+</p>
   <!-- Add more social links if needed -->
 </p>
 
