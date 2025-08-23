@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Try this alternative badge for profile hits: -->
   <img src="https://count.getloli.com/get/@sandeep325?theme=moebius" alt="Profile Counter" style="margin-right:20px;"/>
-  <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <br/><img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   <p>
     <img src="https://img.shields.io/badge/Welcome-Visitor-ff69b4?style=for-the-badge&logo=github" alt="Welcome Badge" />
   </p>
