@@ -1,7 +1,7 @@
 <!-- Profile Counter & Visitor Badge (combined and styled) -->
 <div align="center">
   <!-- Try this alternative badge for profile hits: -->
-  <img src="https://count.getloli.com/get/@sandeep325?theme=moebius" alt="Profile Counter" height="30" style="margin-right:20px;"/>
+  <img src="https://count.getloli.com/get/@sandeep325?theme=moebius" alt="Profile Counter" height="28" style="margin-right:20px;"/>
   <br/><img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   <p>
     <img src="https://img.shields.io/badge/Welcome-Visitor-ff69b4?style=for-the-badge&logo=github" alt="Welcome Badge" />
@@ -16,6 +16,19 @@
 
 <!-- Motivational Quote -->
 <p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+
+
+<!-- Experience Section -->
+<h3 align="center">💼 Experience</h3>
+<p align="center">
+  <b>Software Engineer || Full Stack Developer</b><br>
+  <span>Over 5+ years of professional experience architecting, developing, and deploying web applications using React.js, Node.js, MySQL, MongoDB, TypeScript and PHP.</span><br>
+  <span>Proven track record of delivering scalable, secure, and high-performance solutions for diverse industries including e-commerce, healthcare, finance, and education.</span><br>
+  <span>Skilled in collaborating with cross-functional teams.</span><br>
+  <span>Experienced in RESTful API design, microservices, and agile methodologies.</span><br>
+  <span>Strong problem-solving skills, attention to detail, and a passion for learning new technologies.</span><br>
+  <span>Committed to writing clean, maintainable code and delivering exceptional user experiences.</span>
+</p>
 
 <!-- Tech Stack Section (moved to top) -->
 <h3 align="center">🚀 Tech Stack & Tools</h3>
@@ -97,7 +110,7 @@
 <p align="center">
   <em>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</em>
 </p>
-  <!-- Add more social links if needed -->
-</p>
+
+
 
 
