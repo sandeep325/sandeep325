@@ -42,29 +42,51 @@
 <!-- Contact Section -->
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-  <a href="mailto:negisandeep9819@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" alt="Gmail" />
+  <a href="mailto:negisandeep9819@gmail.com" style="margin:0 10px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="32" alt="Gmail"
+         style="border-radius:50%; box-shadow:0 2px 8px #d44638; transition:transform 0.2s;" />
     negisandeep9819@gmail.com
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank" style="margin:0 10px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="32" alt="LinkedIn"
+         style="border-radius:50%; box-shadow:0 2px 8px #0077b5; transition:transform 0.2s;" />
     LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" alt="Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank" style="margin:0 10px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+         width="32" alt="Facebook"
+         style="border-radius:50%; box-shadow:0 2px 8px #1877f3; transition:transform 0.2s;" />
     Facebook
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/negisandeep9819/" target="_blank" style="margin:0 10px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="32" alt="Instagram"
+         style="border-radius:50%; box-shadow:0 2px 8px #e1306c; transition:transform 0.2s;" />
+    Instagram
   </a>
 </p>
 
-<!-- Social Links (moved to bottom) -->
+<!-- Social Links (moved to bottom, styled) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank" style="margin:0 8px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="20" alt="LinkedIn"
+         style="border-radius:50%; box-shadow:0 2px 8px #0077b5; transition:transform 0.2s;" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" alt="Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank" style="margin:0 8px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+         width="20" alt="Facebook"
+         style="border-radius:50%; box-shadow:0 2px 8px #1877f3; transition:transform 0.2s;" />
+  </a>
+  <a href="https://www.instagram.com/negisandeep9819/" target="_blank" style="margin:0 8px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="20" alt="Instagram"
+         style="border-radius:50%; box-shadow:0 2px 8px #e1306c; transition:transform 0.2s;" />
   </a>
   <!-- Add more social links if needed -->
 </p>
