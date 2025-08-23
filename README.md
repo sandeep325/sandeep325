@@ -17,19 +17,6 @@
 <!-- Motivational Quote -->
 <p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
 
-
-<!-- Experience Section -->
-<h3 align="center">💼 Experience</h3>
-<p align="center">
-  <b>Software Engineer || Full Stack Developer</b><br>
-  <span>Over 5+ years of professional experience architecting, developing, and deploying web applications using React.js, Node.js, MySQL, MongoDB, TypeScript and PHP.</span><br>
-  <span>Proven track record of delivering scalable, secure, and high-performance solutions for diverse industries including e-commerce, healthcare, finance, and education.</span><br>
-  <span>Skilled in collaborating with cross-functional teams.</span><br>
-  <span>Experienced in RESTful API design, microservices, and agile methodologies.</span><br>
-  <span>Strong problem-solving skills, attention to detail, and a passion for learning new technologies.</span><br>
-  <span>Committed to writing clean, maintainable code and delivering exceptional user experiences.</span>
-</p>
-
 <!-- Tech Stack Section (moved to top) -->
 <h3 align="center">🚀 Tech Stack & Tools</h3>
 <p align="center">
@@ -44,6 +31,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <!-- Add more icons as needed -->
 </p>
+
+<!-- Experience Section -->
+<h3 align="center">💼 Experience</h3>
+<p align="center">
+  <b>Software Engineer || Full Stack Developer</b><br>
+  <span>Over 5+ years of professional experience architecting, developing, and deploying web applications using React.js, Node.js, MySQL, MongoDB, TypeScript and PHP.</span><br>
+  <span>Proven track record of delivering scalable, secure, and high-performance solutions for diverse industries including e-commerce, healthcare, finance, and education.</span><br>
+  <span>Skilled in collaborating with cross-functional teams.</span><br>
+  <span>Experienced in RESTful API design, microservices, and agile methodologies.</span><br>
+  <span>Strong problem-solving skills, attention to detail, and a passion for learning new technologies.</span><br>
+  <span>Committed to writing clean, maintainable code and delivering exceptional user experiences.</span>
+</p>
+
+
 
 <!-- Divider -->
 <hr style="border:1px solid #eee;">
