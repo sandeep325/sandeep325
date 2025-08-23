@@ -72,11 +72,10 @@
 <!-- Let's Connect Section -->
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
-  <a href="mailto:negisandeep9819@gmail.com" style="margin:0 10px; display:inline-block;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=negisandeep9819@gmail.com" target="_blank" style="margin:0 10px; display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="32" alt="Gmail"
          style="border-radius:50%; box-shadow:0 2px 8px #d44638; transition:transform 0.2s;" />
-    negisandeep9819@gmail.com
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank" style="margin:0 10px; display:inline-block;">
