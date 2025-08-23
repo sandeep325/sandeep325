@@ -48,7 +48,15 @@
 <!-- Contact Section -->
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-  <a href="mailto:sandeepnegi98@gmail.com">sandeepnegi98@gmail.com</a>
+  <a href="mailto:negisandeep9819@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" alt="Gmail" />
+    negisandeep9819@gmail.com
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" alt="LinkedIn" />
+    LinkedIn
+  </a>
 </p>
 
 <!-- Footer -->
