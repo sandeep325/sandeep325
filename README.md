@@ -9,21 +9,7 @@
   <b>Full Stack Developer | JavaScript | Python | React | Node.js</b>
 </p>
 
-<!-- Short Intro -->
-<p align="center">
-  Creative problem solver and passionate coder.<br>
-  I thrive on building impactful products, exploring new tech, and working with great teams to deliver real-world solutions.
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
-  </a>
-  <!-- Add more social links if needed -->
-</p>
-
-<!-- Skills Section -->
+<!-- Tech Stack Section (moved to top) -->
 <h3 align="center">Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -36,6 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <!-- Add more icons as needed -->
+</p>
+
+<!-- Short Intro -->
+<p align="center">
+  Creative problem solver and passionate coder.<br>
+  I thrive on building impactful products, exploring new tech, and working with great teams to deliver real-world solutions.
 </p>
 
 <!-- Stats & Snake Animation -->
@@ -59,6 +51,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" alt="LinkedIn" />
     LinkedIn
   </a>
+</p>
+
+<!-- Social Links (moved to bottom) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  </a>
+  <!-- Add more social links if needed -->
 </p>
 
 <!-- Footer -->
