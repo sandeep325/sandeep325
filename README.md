@@ -3,14 +3,22 @@
   <img src="https://profile-counter.glitch.me/sandeep325/count.svg?" />
 </div>
 
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep325" />
+</p>
+
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Sandeep Negi</h1>
+<h1 align="center">Hi <span style="font-size:2rem;">👋</span>, I'm Sandeep Negi</h1>
 <p align="center">
   <b>Full Stack Developer | JavaScript | Python | React | Node.js</b>
 </p>
 
+<!-- Motivational Quote -->
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+
 <!-- Tech Stack Section (moved to top) -->
-<h3 align="center">Tech Stack & Tools</h3>
+<h3 align="center">🚀 Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -24,10 +32,18 @@
   <!-- Add more icons as needed -->
 </p>
 
+<!-- Divider -->
+<hr style="border:1px solid #eee;">
+
 <!-- Short Intro -->
 <p align="center">
   Creative problem solver and passionate coder.<br>
   I thrive on building impactful products, exploring new tech, and working with great teams to deliver real-world solutions.
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeep325&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <!-- Stats & Snake Animation -->
@@ -39,8 +55,8 @@
 <img src="https://raw.githubusercontent.com/sanat918/sanat918/output/snake.svg" alt="Snake animation" />
 -->
 
-<!-- Contact Section -->
-<h3 align="center">📫 How to reach me</h3>
+<!-- Let's Connect Section -->
+<h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
   <a href="mailto:negisandeep9819@gmail.com" style="margin:0 10px; display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
