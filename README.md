@@ -56,7 +56,7 @@
 <!-- Social Links (moved to bottom) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="LinkedIn" />
   </a>
   <!-- Add more social links if needed -->
 </p>
