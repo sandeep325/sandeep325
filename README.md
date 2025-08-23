@@ -1,12 +1,19 @@
-<!-- Profile Counter -->
+<!-- Profile Counter & Visitor Badge (combined and styled) -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sandeep325/count.svg?" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://profile-counter.glitch.me/sandeep325/count.svg?" alt="Profile Counter" style="margin-right:20px;"/>
+      </td>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+      </td>
+    </tr>
+  </table>
+  <p>
+    <img src="https://img.shields.io/badge/Welcome-Visitor-ff69b4?style=for-the-badge&logo=github" alt="Welcome Badge" />
+  </p>
 </div>
-
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeep325&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep325" />
-</p>
 
 <!-- Header -->
 <h1 align="center">Hi <span style="font-size:2rem;">👋</span>, I'm Sandeep Negi</h1>
