@@ -51,12 +51,20 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" alt="LinkedIn" />
     LinkedIn
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" alt="Facebook" />
+    Facebook
+  </a>
 </p>
 
 <!-- Social Links (moved to bottom) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeepnegi98" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007376778869" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="20" alt="Facebook" />
   </a>
   <!-- Add more social links if needed -->
 </p>
