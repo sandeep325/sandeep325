@@ -11,7 +11,7 @@
 <!-- Header -->
 <h1 align="center">Hi <span style="font-size:2rem;">👋</span>, I'm Sandeep Negi</h1>
 <p align="center">
-  <b>Full Stack Developer | JavaScript | Python | React | Node.js</b>
+  <b>Full Stack Developer | JavaScript | Python | React | Node.js|Express.js |AWS|Docker</b>
 </p>
 
 <!-- Motivational Quote -->
