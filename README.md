@@ -41,7 +41,7 @@
   <b>Bedrock</b> &nbsp; 
   <b>Cloud AI</b> &nbsp; 
   <b>ChatGPT</b> &nbsp; 
-  <b>Claude</b> &nbsp; 
+  <b>stich.ai</b> &nbsp; 
   <b>GitHub Copilot</b>
 </p>
 
