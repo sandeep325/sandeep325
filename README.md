@@ -35,6 +35,18 @@
   <!-- Add more icons as needed -->
 </p>
 
+<!-- AI Tools -->
+<h3 align="center">🚀 AI Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Q" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="OpenAI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Copilot" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Anthropic_logo.svg" height="40" alt="Anthropic" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ChatGPT_logo.svg" height="40" alt="ChatGPT" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Claude_logo.svg" height="40" alt="Claude" />
+</p>
+
 <!-- Experience Section -->
 <h3 align="center">💼 Experience</h3>
 <p align="center">
