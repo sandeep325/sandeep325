@@ -36,7 +36,7 @@
 <h3 align="center">💼 Experience</h3>
 <p align="center">
   <b>Software Engineer || Full Stack Developer</b><br>
-  <span>Over 6+ years of professional experience architecting, developing, and deploying web applications using React.js, Node.js, MySQL, MongoDB, TypeScript and PHP.</span><br>
+  <span>Over 6+ years of professional experience architecting, developing, and deploying web applications using React.js, Node.js, MySQL, MongoDB, TypeScript,Python and PHP.</span><br>
   <span>Proven track record of delivering scalable, secure, and high-performance solutions for diverse industries including e-commerce, healthcare, finance, and education.</span><br>
   <span>Skilled in collaborating with cross-functional teams.</span><br>
   <span>Experienced in RESTful API design, microservices, and agile methodologies.</span><br>
