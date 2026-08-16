@@ -39,10 +39,10 @@
 <h3 align="center">🚀 AI Tools</h3>
 <p align="center">
   <img src="https://images.seeklogo.com/logo-png/450888-2024-amazon-q-logo-png_seeklogo-450888.png" height="40" alt="Amazon Q" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Bedrock_logo.svg" height="40" alt="Bedrock" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Copilot" />
+  <img src="https://seeklogo.com/images/C/cloud-io-logo-07AF8C9CC7-seeklogo.com.png" height="40" alt="Cloud AI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ChatGPT_logo.svg" height="40" alt="ChatGPT" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Claude_logo.svg" height="40" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Copilot" />
 </p>
 
 <!-- Experience Section -->
