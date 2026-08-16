@@ -79,7 +79,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep325&theme=radical" height="180" />
 </p>
 <!--
-<img src="https://raw.githubusercontent.com/sanat918/sanat918/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandeep325/sandeep325/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 -->
 
 <!-- Let's Connect Section -->
